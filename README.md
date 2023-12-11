@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sumiyaakhi.Sumiyaakhi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumiya+Akhi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumiya+Akhi!+MERN+Stack+Developer!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer from Dhaka 🇨🇦</h3>
+<h3 align="center">A passionate Web developer from Dhaka </h3>
 
 <br/>
 
@@ -63,4 +63,11 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
+<br/>
+<hr/>
+
+<br/>
+<h3 align="center">
+<img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration4000&lines=Thanks+for+visiting!✌️;+Shoot+me+a+message+on+Linkedin!;I'am+always+down+to+collab+:)">
+</h3>
 <br/>

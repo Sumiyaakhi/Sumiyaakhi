@@ -1,23 +1,66 @@
-![MERN Stack Web Developer](https://scontent.xx.fbcdn.net/v/t1.15752-9/355963718_9886086398098615_708617502618814532_n.jpg?stp=dst-jpg_s206x206&_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGN7BhIrNdpNnT79pXsFxzuf8u1fx77xAJ_y7V_HvvEAiXgxhpfEc9D_nE_q6eg-oIgv6zr7TX7sVQHuge82wEC&_nc_ohc=In6cPzAaxhIAX8gyeQo&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR536J-vRaR9rEWnH5_vNx8d-w5FXKttJAvAiLr7iXLPQ&oe=64BB561D)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sumiyaakhi.Sumiyaakhi" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumiya+Akhi!;" />
+</h1>
 
-### Hi there 👋, I'm Sumiya Akhi
-#### MERN Stack Web Developer
+<h3 align="center">A passionate Web developer from Dhaka 🇨🇦</h3>
 
+<br/>
 
-I am the hardworking and mostly spearheaded person to secure a highly rewarding position as a MERN (MongoDB, Express.js, React.js, Node.js) Stack Web Developer, leveraging my profound expertise and passion for crafting robust and scalable web applications.
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Next.js, Redux**
 
-Skills: Vite / REACT /Firebase/MongoDB/Node.js/Express.js/ JS / HTML / CSS
+💬 Ask me about **Node.js, React.js, Firebase... or anything **
 
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about Web Development & Computer Science 
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:sumiya.akhi793@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sumiya-akhi-803b4127b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://adorable-zuccutto-a77dc2.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sumiyaakhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sumiyaakhi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sumiyaakhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Sumiyaakhi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sumiyaakhi)  
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,nextjs" /><br>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiyaakhi)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<hr/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumiyaakhi&show_icons=true)  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiyaakhi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="streak stats"/>
+ 
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiyaakhi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumiyaakhi)  
+<br/><br/>
 
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>

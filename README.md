@@ -6,19 +6,19 @@
 </h1>
 
 <h3 align="center">A passionate Web developer from Dhaka </h3>
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
+
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+<p> 🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Next.js, Redux**
 
 💬 Ask me about **Node.js, React.js, Firebase... or anything **
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**</p>
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
  </div>
  
 <div align="center"> 

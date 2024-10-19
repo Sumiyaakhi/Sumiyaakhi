@@ -2,6 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumiya+Akhi😊!;+A+MERN+Stack+Developer!;" />
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
 </h1>
 
 <h3 align="center">A passionate Web developer from Dhaka </h3>
@@ -17,7 +18,7 @@
 💬 Ask me about **Node.js, React.js, Firebase... or anything **
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
+
  </div>
  
 <div align="center"> 
